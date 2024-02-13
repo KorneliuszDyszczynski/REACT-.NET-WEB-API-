@@ -1,0 +1,23 @@
+{
+  "Version": 1,
+  "Hash": "u9SyLa0+vbhjQPL0BHwfY2B2qvCEToMcPVWVTiiGFPk=",
+  "Source": "ZadanieRekrutacyjne.Server",
+  "BasePath": "_content/ZadanieRekrutacyjne.Server",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [
+    {
+      "Identity": "C:\\Users\\korne\\source\\repos\\ZadanieRekrutacyjne\\ZadanieRekrutacyjne\\zadanierekrutacyjne.client\\zadanierekrutacyjne.client.esproj",
+      "Version": 2,
+      "Source": "zadanierekrutacyjne.client",
+      "GetPublishAssetsTargets": "GetCurrentProjectPublishStaticWebAssetItems",
+      "AdditionalPublishProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalPublishPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained",
+      "GetBuildAssetsTargets": "GetCurrentProjectBuildStaticWebAssetItems",
+      "AdditionalBuildProperties": "Configuration=Debug;Platform=AnyCPU",
+      "AdditionalBuildPropertiesToRemove": "WebPublishProfileFile;TargetFramework;RuntimeIdentifier;SelfContained"
+    }
+  ],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

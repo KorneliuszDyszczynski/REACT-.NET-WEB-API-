@@ -1,0 +1,2 @@
+C:\Users\korne\source\repos\ZadanieRekrutacyjne\zadanierekrutacyjne.client\obj\Debug\zadanierekrutacyjne.client.esproj.CoreCompileInputs.cache
+C:\Users\korne\source\repos\ZadanieRekrutacyjne\ZadanieRekrutacyjne\zadanierekrutacyjne.client\obj\Debug\zadanierekrutacyjne.client.esproj.CoreCompileInputs.cache
